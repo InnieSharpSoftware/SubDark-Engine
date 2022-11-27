@@ -1,0 +1,9 @@
+C:\Users\codaaj\Documents\SharpDevelop Projects\pmraw_engine\pmraw_engine\obj\Debug\pmraw_engine.csprojResolveAssemblyReference.cache
+C:\Users\codaaj\Documents\SharpDevelop Projects\pmraw_engine\pmraw_engine\obj\Debug\pmraw_engine.MainForm.resources
+C:\Users\codaaj\Documents\SharpDevelop Projects\pmraw_engine\pmraw_engine\obj\Debug\pmraw_engine.csproj.GenerateResource.Cache
+C:\Users\codaaj\Documents\SharpDevelop Projects\pmraw_engine\pmraw_engine\bin\Debug\FastColoredTextBox.dll
+C:\Users\codaaj\Documents\SharpDevelop Projects\pmraw_engine\pmraw_engine\bin\Debug\sdraw_engine.exe.config
+C:\Users\codaaj\Documents\SharpDevelop Projects\pmraw_engine\pmraw_engine\bin\Debug\sdraw_engine.exe
+C:\Users\codaaj\Documents\SharpDevelop Projects\pmraw_engine\pmraw_engine\bin\Debug\sdraw_engine.pdb
+C:\Users\codaaj\Documents\SharpDevelop Projects\pmraw_engine\pmraw_engine\obj\Debug\sdraw_engine.exe
+C:\Users\codaaj\Documents\SharpDevelop Projects\pmraw_engine\pmraw_engine\obj\Debug\sdraw_engine.pdb
